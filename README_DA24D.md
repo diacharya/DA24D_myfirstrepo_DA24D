@@ -10,7 +10,7 @@ I am still a little confused about using Git from the terminal and how commands 
 
 ## Module 0 Lab
 
-I completed the Git and GitHub / Python Practice Module 0 lab.
+I completed the Git and GitHub Module 0 lab.
 
 My experience with the lab was slow, I am using a temporary computer, and it is not as good as my PC. 
 
