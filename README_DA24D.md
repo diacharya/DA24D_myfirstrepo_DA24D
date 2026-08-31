@@ -17,3 +17,4 @@ My experience with the lab was slow, I am using a temporary computer, and it is 
 ## Screenshot
 
 I will add my screenshot of the interactive lab here.
+![Module 0 Lab Screenshot](IMG_1927.webp)
